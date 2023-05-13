@@ -1,0 +1,27 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid blue;
+  padding: 50px;
+}
+
+.form__input {
+  width: 300px;
+  height: 25px;
+  border-radius: 7px;
+  border: 1px solid blue;
+}
+
+.form__label {
+  margin-left: auto;
+  margin-bottom: 35px;
+}
+
+.btn {
+  display: block;
+  width: 110px;
+  height: 30px;
+  margin: 0 auto;
+  border: 1px solid blue;
+  border-radius: 5px;
+}
